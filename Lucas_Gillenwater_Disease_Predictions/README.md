@@ -10,8 +10,9 @@ Below is a brief explanation of the key columns in the file:
 - **Disease Name**: The specific name of the disease.
 - **Study ID**: The unique identifier for each RNA-seq study sourced from refine.bio.
 - **prob**: The predicted probability that the study is associated with the disease.
-- **log2(prob/prior)**: A log-transformed measure of how much more (or less) likely the study is to be associated with the disease compared to random chance, providing a quick measure of prediction reliability. A value greater than 1 suggests a strong association with the disease. A value of 1 or less indicates weaker associations.
-- **Study Description**: A brief summary of the study and its focus.
+- **log2(prob/prior)**: A log-transformed measure of how much more (or less) likely the study is to be associated with the disease compared to random chance, providing a quick measure of prediction reliability. A value greater than 1 suggests a strong association with the disease.
+  -  A value of 1 or less indicates weaker associations.
+  - **Study Description**: A brief summary of the study and its focus.
 
 **Note:** Only RNA-seq studies with a log2(prob/prior) value greater than 1 have been included in the attached file. The data is also sorted in descending order of log2(prob/prior) to prioritize the studies with the strongest predictions.
 
