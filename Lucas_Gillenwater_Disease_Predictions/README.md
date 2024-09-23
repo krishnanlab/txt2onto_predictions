@@ -17,34 +17,3 @@ Below is a brief explanation of the key columns in the file:
 
 
 
-| Condition                | MONDO Term      | Model Availability |
-|--------------------------|-----------------|--------------------|
-| Obesity                  | MONDO:0011122   | Yes                |
-| Type 1 Diabetes           | MONDO:0005147   | Yes                |
-| Congenital heart defect   | MONDO:0005453   | Yes                |
-| Epilepsy                 | MONDO:0005027   | Yes                |
-| Asthma                   | MONDO:0004979   | Yes                |
-| Celiac disease           | MONDO:0005130   | Yes                |
-| Depression               | MONDO:0002050   | Yes                |
-| Pneumonia                | MONDO:0005249   | Yes                |
-| Autism                   | MONDO:0005260   | Yes                |
-| Pulmonary hypertension    | MONDO:0005149   | Yes                |
-| Acute leukemia (AML, ALL) | MONDO:0010643   | Yes                |
-| Alzheimer’s              | MONDO:0004975   | Yes                |
-| Coronary artery disease   | MONDO:0005010   | Yes                |
-| High blood pressure       | MONDO:0005044   | Yes                |
-| Breast cancer            | MONDO:0007254   | Yes                |
-| Prostate cancer          | MONDO:0008315   | Yes                |
-| Lung cancer              | MONDO:0008903   | Yes                |
-| Bladder cancer           | MONDO:0004986   | Yes                |
-| Anxiety                  | MONDO:0011918   | No                 |
-| Alopecia                 | MONDO:0004907   | No                 |
-| Arthritis                | MONDO:0007156   | No                 |
-| Vitiligo                 | MONDO:0008661   | No                 |
-| Hearing loss             | MONDO:0005365   | No                 |
-| Hypothyroidism           | MONDO:0005420   | No                 |
-| Sleep apnea              | MONDO:0005296   | No                 |
-| Trisomy 21               | MONDO:0019065   | No                 |
-
-
-
