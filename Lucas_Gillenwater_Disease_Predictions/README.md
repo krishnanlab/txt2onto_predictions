@@ -15,5 +15,9 @@ Below is a brief explanation of the key columns in the file:
 
 **Note:** Only RNA-seq studies with a log2(prob/prior) value greater than 1 have been included in the attached file. The data is also sorted in descending order of log2(prob/prior) to prioritize the studies with the strongest predictions.
 
+## Additional Information
+
+The file lucas_requested_diseases.csv provides the complete list of diseases, their corresponding MONDO terms, and the model availability status for each disease.
+
 
 
