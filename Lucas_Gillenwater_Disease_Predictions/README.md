@@ -1,6 +1,6 @@
 # Lucas_Gillenwater_Disease_Predictions
 
-This folder contains various predictions and analyses generated using the **txt2onto** tool to identify public RNA-seq samples and studies related to the **requested diseases** provided by Lucas Gillenwater. The results are summarized in the attached file, `disease_predictions_with_descriptions.csv`.
+This folder contains various predictions and analyses generated using **txt2onto** to identify public RNA-seq samples and studies related to the **requested diseases** provided by Lucas Gillenwater. The results are summarized in the attached file, `disease_predictions_with_descriptions.csv`.
 
 ## File Overview
 
